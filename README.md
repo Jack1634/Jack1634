@@ -17,6 +17,7 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
+
 <a href="#" target="_blank"> <img src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=307" alt="Power BI" height="70"/> </a> <!-- Added Power BI logo with link -->
 <a href="#" target="_blank"> <img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg" alt="novyPro" height="70"/> </a>
 
