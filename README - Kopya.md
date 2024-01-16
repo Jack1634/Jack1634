@@ -7,9 +7,9 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-muslu/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/muslu34613461)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:muslu34613461@gmail.com)
+<a href="https://public.tableau.com/app/profile/muhammet.mu.lu" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@muslu34613461)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jack1634" alt="Jack1634" /> </p>
-[![website](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>](https://public.tableau.com/app/profile/muhammet.mu.lu)
 
 ## 💻 Data Visualization
 
