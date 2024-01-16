@@ -17,6 +17,8 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://powerbi.microsoft.com/pictures/build-logo.svg" alt="Power BI" height="50"/> </a> <!-- Added Power BI logo with link -->
+<a href="https://www.novypro.com/profile_projects/muhammetmuşlu" target="_blank">NovyPro Profile</a> <!-- Added NovyPro link -->
 
 ## 💻 Python Libraries
 
@@ -24,6 +26,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
@@ -36,6 +39,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jack1634&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
