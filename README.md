@@ -11,6 +11,9 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@muslu34613461)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jack1634" alt="Jack1634" /> </p>
 
+ [![website](https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg)](https://www.novypro.com//@muslu34613461)
+ <p align="left"> <img src="https://www.novypro.com/profile_projects/muhammetmuşlu" alt="novyPro" /> </p>
+
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="50"/> </a>
